@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+}
+
+#graph {
+    width: 100%;
+    max-width: 1060px;
+    height: 600px;
+    margin: auto;
+    border: 1px solid #ccc;
+    background-color: white;
+}
